@@ -1,2 +1,2 @@
-add_lunch_combo lineage_guacamole-eng
-add_lunch_combo lineage_guacamole-userdebug
+add_lunch_combo aoscp_guacamole-eng
+add_lunch_combo aoscp_guacamole-userdebug
